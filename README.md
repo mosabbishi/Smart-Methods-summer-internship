@@ -1,1 +1,1 @@
-# Smart Methods summer internship IOT
+# Smart Methods summer internship IOT tasks
